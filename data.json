@@ -1,0 +1,221 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/squirtvideos-downloader",
+  "serply_link": "https://serp.ly/squirtvideos-downloader",
+  "app_name": "Squirtvideos Video Downloader",
+  "short_description": "Download & Save Squirtvideos Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "The Squirtvideos Downloader is a browser extension that helps you detect and download video content from SquirtVideos pages. Instead of relying on generic third-party tools or complex workarounds, this extension works directly within your browser to identify playable media and save it as MP4 files for offline access.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/squirtvideos-downloader-fullscreen-01-d5b43ed1da.webp",
+    "https://apps.serp.co/media/optimized-products/squirtvideos-downloader-fullscreen-02-334f001feb.webp",
+    "https://apps.serp.co/media/optimized-products/squirtvideos-downloader-fullscreen-03-1f316e7f96.webp",
+    "https://apps.serp.co/media/optimized-products/squirtvideos-downloader-fullscreen-04-2beb145c81.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is this extension free to use?",
+      "answer": "You get 3 free downloads to test the workflow. After that, unlimited downloads require a paid license."
+    },
+    {
+      "question": "Which browsers are supported?",
+      "answer": "The extension is designed for Chrome, Edge, Brave, and Firefox."
+    },
+    {
+      "question": "Do I need to create an account?",
+      "answer": "Yes, you need to sign in with your email using a one-time password for authentication."
+    },
+    {
+      "question": "Can I download videos from any Squirtvideos page?",
+      "answer": "The extension works on supported video pages. Some pages may not have detectable media depending on how they are built."
+    },
+    {
+      "question": "What format are the downloaded files?",
+      "answer": "All downloads are saved as MP4 files for broad compatibility with media players and devices."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "The Squirtvideos Downloader extension solves this by working directly inside your browser on Squirtvideos pages. It detects the video content being played and allows you to download it with a few clicks. This means you can build a personal library of content you have permission to save, watch it offline, or keep a backup without depending on streaming availability."
+    },
+    {
+      "name": "",
+      "description": "Collectors building a personal library of content they have permission to save"
+    },
+    {
+      "name": "",
+      "description": "Archiving content you have permission to keep for personal use"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Scoped specifically to SquirtVideos with companion host support for 99re.com",
+    "Works directly from the browser without external software",
+    "Detects media from supported video pages automatically",
+    "Saves files in MP4 format for broad device compatibility",
+    "Designed for Chrome, Edge, Brave, and Firefox browsers",
+    "Detects video content from Squirtvideos pages automatically",
+    "Works on Squirtvideos and companion 99re.com host pages",
+    "Saves downloaded files as MP4 for broad compatibility",
+    "Simple popup interface for controlling downloads",
+    "Context menu integration for quick access",
+    "Desktop notifications when downloads complete",
+    "Auto-save to a dedicated Squirtvideos folder",
+    "Designed for Chrome, Edge, Brave, and Firefox"
+  ],
+  "content": {
+    "why": [
+      "Watching videos on Squirtvideos often means you need an active internet connection every time you want to view content. If you want to save specific videos for offline playback, you might find yourself searching for unreliable third-party tools that don't work well or require complicated setup steps.",
+      "The Squirtvideos Downloader extension solves this by working directly inside your browser on Squirtvideos pages. It detects the video content being played and allows you to download it with a few clicks. This means you can build a personal library of content you have permission to save, watch it offline, or keep a backup without depending on streaming availability."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Squirtvideos and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Squirtvideos Downloader extension from GitHub Releases.",
+      "Navigate to Squirtvideos and find a video page you want to save.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Start the video playing so the extension can detect the media stream.",
+      "In the popup, you will see the detected video options available.",
+      "Select your preferred quality or format option.",
+      "Click the download button to begin saving the file.",
+      "Wait for the download to complete and save the MP4 file to your computer."
+    ],
+    "supported_formats": [
+      "Input: Video content detected from Squirtvideos pages and companion host pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who want to save Squirtvideos videos for offline viewing",
+      "Collectors building a personal library of content they have permission to save",
+      "Users with limited or unreliable internet who want to watch videos without streaming",
+      "Anyone who wants a simple browser-based tool instead of complex third-party software"
+    ],
+    "use_cases": [
+      "Saving favorite videos to watch offline during travel",
+      "Archiving content you have permission to keep for personal use",
+      "Creating a backup of videos you enjoy and want to preserve",
+      "Watching videos on devices without constant internet access",
+      "Building a local collection of content from Squirtvideos"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure the video is playing or has been started. Some pages require user interaction before media becomes detectable.",
+      "The download button is grayed out or unresponsive Try refreshing the page and starting playback again. Ensure you have the latest version of the extension installed.",
+      "The download fails partway through Check your internet connection and available disk space. You can try restarting the download from the beginning.",
+      "The extension does not appear in my browser toolbar Check your browser's extension management page to ensure the extension is enabled. You may need to pin it to the toolbar manually.",
+      "I see an authentication error The extension requires a valid account to use. Make sure you have completed the sign-in process through the popup."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Squirtvideos page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension works on Squirtvideos and companion 99re.com host pages",
+      "Downloaded files are saved to your browser's default download location"
+    ],
+    "about": [
+      "Squirtvideos is an adult video platform featuring user-uploaded and studio content across various categories. The Squirtvideos Downloader extension helps you save videos from the platform directly through your browser for offline access."
+    ]
+  },
+  "serpx_link": "https://serpx.link/squirtvideos-downloader",
+  "github_topics": [
+    "squirtvideos-download",
+    "squirtvideos-downloader",
+    "squirtvideos-video-downloader",
+    "squirtvideos-video-downloader-online",
+    "squirtvideos-video-downloader-mac",
+    "squirtvideos-video-downloader-window",
+    "squirtvideos-video-downloader-free",
+    "squirtvideos-video-downloader-extension",
+    "squirtvideos-video-downloader-app",
+    "squirtvideos-video-downloader-chrome",
+    "squirtvideos-video-downloader-from-url",
+    "how-to-download-squirtvideos-videos",
+    "how-to-download-squirtvideos-videos-mac",
+    "how-to-download-squirtvideos-videos-windows",
+    "how-to-download-squirtvideos-videos-online",
+    "how-to-download-squirtvideos-videos-free",
+    "how-to-download-from-squirtvideos",
+    "how-to-download-videos-from-squirtvideos",
+    "download-squirtvideos-videos",
+    "squirtvideos-video-tutorial",
+    "save-squirtvideos-videos",
+    "squirtvideos-video-content-saver",
+    "how-to-download-squirtvideos-videos-for-free"
+  ],
+  "hashtags": [
+    "#SquirtvideosDownload",
+    "#SquirtvideosDownloader",
+    "#SquirtvideosVideoDownloader",
+    "#SquirtvideosVideoDownloaderOnline",
+    "#SquirtvideosVideoDownloaderMac",
+    "#SquirtvideosVideoDownloaderWindow",
+    "#SquirtvideosVideoDownloaderFree",
+    "#SquirtvideosVideoDownloaderExtension",
+    "#SquirtvideosVideoDownloaderApp",
+    "#SquirtvideosVideoDownloaderChrome",
+    "#SquirtvideosVideoDownloaderFromURL",
+    "#HowToDownloadSquirtvideosVideos",
+    "#HowToDownloadSquirtvideosVideosMac",
+    "#HowToDownloadSquirtvideosVideosWindows",
+    "#HowToDownloadSquirtvideosVideosOnline",
+    "#HowToDownloadSquirtvideosVideosFree",
+    "#HowToDownloadFromSquirtvideos",
+    "#HowToDownloadVideosFromSquirtvideos",
+    "#DownloadSquirtvideosVideos",
+    "#SquirtvideosVideoTutorial",
+    "#SaveSquirtvideosVideos",
+    "#SquirtvideosVideoContentSaver",
+    "#HowToDownloadSquirtvideosVideosForFree"
+  ],
+  "youtube_tags": [
+    "Squirtvideos Download",
+    "Squirtvideos Downloader",
+    "Squirtvideos Video Downloader",
+    "Squirtvideos Video Downloader Online",
+    "Squirtvideos Video Downloader Mac",
+    "Squirtvideos Video Downloader Window",
+    "Squirtvideos Video Downloader Free",
+    "Squirtvideos Video Downloader Extension",
+    "Squirtvideos Video Downloader App",
+    "Squirtvideos Video Downloader Chrome",
+    "Squirtvideos Video Downloader From URL",
+    "How To Download Squirtvideos Videos",
+    "How To Download Squirtvideos Videos Mac",
+    "How To Download Squirtvideos Videos Windows",
+    "How To Download Squirtvideos Videos Online",
+    "How To Download Squirtvideos Videos Free",
+    "How To Download From Squirtvideos",
+    "How To Download Videos From Squirtvideos",
+    "Download Squirtvideos Videos",
+    "Squirtvideos Video Tutorial",
+    "Save Squirtvideos Videos",
+    "Squirtvideos Video Content Saver",
+    "How To Download Squirtvideos Videos For Free"
+  ]
+}
